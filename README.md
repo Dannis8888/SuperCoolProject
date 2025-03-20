@@ -16,3 +16,5 @@ Pro tips for getting an A in Dr.Cerny's class.
   
   Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful. 
  bcb747a (Update README.md)
+Hi, I am Dannis Wu. Nice to see your tips!
+
